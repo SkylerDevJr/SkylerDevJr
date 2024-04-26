@@ -1,3 +1,4 @@
+[mycard](https://raw.githubusercontent.com/gist/SkylerDevJr/28aafde643734600377e347967ceda16/raw/2987538120f13f1eb2a5cc3dba898c2782a2c07f/githubcard.svg)/>
 # 💫 About Me:
 ### Hi!, I'm Skyler!<br><br>💻 Full-stack Java Developer sharing about my journey and learnings in tech!<br/><br>📝 Study by [Dio's platforms](https://www.dio.me/), Bootcamps and [Projects](https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550400538&cod_edicao=22006&numseqofeedi=1)!<br/><br>📚 Currently studying .Net, C#, SQL, POO, Docker, API's!<br/><br>
 
